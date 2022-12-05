@@ -8,7 +8,7 @@ Install using `pip install -r requirements.txt`
 Run `forward.py`  
 TODO: legends are mis-plotted
 <p align="center">
-	<img src="example/demo.gif"/>
+	<img src="example/demo.gif" width=400>
 </p>
 
 ## Sampling 
